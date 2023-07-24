@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Shahnaz74/ is a ✨ _special_ ✨ repository 
-
-👋 Hi, I’m @Shahnaz. Thanks for visiting my GitHub profile! I am an aspiring software engineer with experience in PHP, HTML, CSS, and JavaScript.
+-👋 Hi, I’m @Shahnaz. Thanks for visiting my GitHub profile! I am an aspiring software engineer with experience in PHP, HTML, CSS, and JavaScript.
 
 - 🔭 I’m interested in developing meaningful and user-friendly software applications.
 - 🌱 I’m currently learning new technologies and frameworks such as Mernstack, JAVA, and Python to enhance my skills and stay updated in the rapidly evolving field of software development.
