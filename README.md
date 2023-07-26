@@ -9,6 +9,6 @@
   
   - https://www.linkedin.com/in/shahnaz-akter-831a86218/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Emojis are my second language, and I use them exclusively!
+- ⚡ Fun fact: Emojis are my second language!
 
 
